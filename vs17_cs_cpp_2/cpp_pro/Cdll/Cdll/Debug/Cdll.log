@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Cdll.cpp
+g:\hello\vs17_cs_cpp_2\cpp_pro\cdll\cdll\cdll.h(76): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdlib.h(1012): note: 参见“wcstombs”的声明
+g:\hello\vs17_cs_cpp_2\cpp_pro\cdll\cdll\cdll.h(81): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdlib.h(1012): note: 参见“wcstombs”的声明
+  正在生成代码...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+    正在创建库 G:\hello\vs17_cs_cpp_2\cpp_pro\Cdll\Debug\Cdll.lib 和对象 G:\hello\vs17_cs_cpp_2\cpp_pro\Cdll\Debug\Cdll.exp
+  Cdll.vcxproj -> G:\hello\vs17_cs_cpp_2\cpp_pro\Cdll\Debug\Cdll.dll

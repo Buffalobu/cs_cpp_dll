@@ -1,0 +1,8 @@
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\obj\Debug\CSdll.csproj.CoreCompileInputs.cache
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\bin\Debug\CSdll.dll
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\bin\Debug\CSdll.pdb
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\obj\Debug\CSdll.dll
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\obj\Debug\CSdll.pdb
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\bin\Debug\CII.GCMS.NISTSCH.dll
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\bin\Debug\CII.Library.Common.dll
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\obj\Debug\CSdll.csproj.CopyComplete

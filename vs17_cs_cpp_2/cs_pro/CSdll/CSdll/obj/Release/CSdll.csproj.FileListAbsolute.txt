@@ -1,0 +1,9 @@
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\bin\Release\CSdll.dll
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\bin\Release\CSdll.pdb
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\bin\Release\CII.GCMS.NISTSCH.dll
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\bin\Release\CII.Library.Common.dll
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\obj\Release\CSdll.csprojAssemblyReference.cache
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\obj\Release\CSdll.csproj.CoreCompileInputs.cache
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\obj\Release\CSdll.csproj.CopyComplete
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\obj\Release\CSdll.dll
+G:\hello\vs17_cs_cpp_2\cs_pro\CSdll\CSdll\obj\Release\CSdll.pdb

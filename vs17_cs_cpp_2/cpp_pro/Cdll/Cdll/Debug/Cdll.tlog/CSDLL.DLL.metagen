@@ -1,0 +1,13 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly CSdll, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly CII.GCMS.NISTSCH, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=None, flags=None
+Class CSdll.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    csAdd(Int32, Int32): PrivateScope, Public, HideBySig
+    nist_sch(UInt32[], UInt32[], Int32&, UInt32[]&): PrivateScope, Public, HideBySig
+    nist_sch_one(UInt32[], UInt32[], Int32&, Int32&, UInt32&, Int32&, String&, UInt32&, Int32&, Int32&, String&): PrivateScope, Public, HideBySig
